@@ -14,4 +14,4 @@ code{color:rgba(20,20,20,1);background-color:#B6B5B2;font-family:'Dosis',cursive
 
 header{background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);min-width:10%}
 
-#myfootage{background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);color:rgba(20,20,20,0.6);bottom:0;width:100%;text-align:right;min-width:20%;height: 80px;padding-top: 20px}
+#myfootage{background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);color:rgba(20,20,20,0.6);bottom:0;width:100%;text-align:right;min-width:10%;height: 80px;padding-top: 20px}

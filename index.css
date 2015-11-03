@@ -10,7 +10,7 @@ p{font-family:'Dosis',cursive;text-decoration:none;font-weight:400;color:#a52a2a
 
 a{font-family:'Dosis',cursive;text-align:left;text-decoration:none;font-weight:400;color:#000;font-style:bold;margin-left:80px}
 
-code{color:rgba(20,20,20,1);background-color:#B6B5B2;font-family:'Dosis',cursive;font-style:normal;border:2px solid 5B5C5B;border-radius:15px;padding:5px 15px;font-size:1em;width:15px;text-align:left}
+code{color:rgba(20,20,20,1);background-color:#B6B5B2;font-family:'Dosis',cursive;font-style:normal;border:2px solid 5B5C5B;border-radius:15px;padding:5px 15px;font-size:1em;width:15px;text-align:left;float: auto}
 
 header{background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);min-width:10%}
 

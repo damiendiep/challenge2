@@ -1,7 +1,7 @@
 /* code to mobile divice settings*/
 html,body,h1 {
 	margin:0;
-	min-width:10%
+	min-width:10%;
 	}
 
 /*top banner size & background*/
@@ -19,7 +19,7 @@ h1 {
 	font-style:bold;
 	color:rgba(20,20,20,0.6);
 	padding-top:100px;
-	padding-bottom:100px
+	padding-bottom:100px;
 	} 
 
 /*Middle Content title*/
@@ -27,7 +27,7 @@ h2 {
 	font-family:'Dosis',cursive;
 	text-align:center;
 	font-weight:400;
-	font-size:2em
+	font-size:2em;
 	}
 
 /*Middle Content*/
@@ -38,14 +38,14 @@ p {
 	color:#a52a2a;
 	font-style:bold;
 	margin-left:80px;
-	font-size:1.3em
+	font-size:1.3em;
 }
 
 /*Middle size*/
 #banner {
 	padding-top:30px;
 	padding-bottom:70px;
-	min-width:10%
+	min-width:10%;
 }
 
 /*Name to describe*/
@@ -60,7 +60,6 @@ code {
 	font-size:1em;
 	width:15px;
 	text-align:left;
-	float: none
 }
 
 /*Push to home button*/
@@ -83,5 +82,5 @@ a {
 	text-align:right;
 	min-width:10%;
 	height: 80px;
-	padding-top: 20px
+	padding-top: 20px;
 }

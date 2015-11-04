@@ -1,13 +1,13 @@
 /* code to mobile divice settings*/
 html,body,h1 {
 	margin:0;
-	min-width:10%;
+	min-width:768px;
 	}
 
 /*top banner size & background*/
 header {
 	background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);
-	min-width:10%
+	min-width:768px;
 }
 
 /*Main header title*/
@@ -45,7 +45,7 @@ p {
 #banner {
 	padding-top:30px;
 	padding-bottom:70px;
-	min-width:10%;
+	min-width:768px;
 }
 
 /*Name to describe*/
@@ -80,7 +80,7 @@ a {
 	bottom:0;
 	width:100%;
 	text-align:right;
-	min-width:10%;
+	min-width:768px;
 	height: 80px;
 	padding-top: 20px;
 }

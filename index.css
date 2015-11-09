@@ -84,3 +84,92 @@ a {
 	height: 80px;
 	padding-top: 20px;
 }
+
+@media screen and (min-width: 768px) {
+	/* code to mobile divice settings*/
+html,body,h1 {
+	margin:0;
+	min-width:10%;
+	}
+
+/*top banner size & background*/
+header {
+	background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);
+	min-width:10%;
+}
+
+/*Main header title*/
+h1 {
+	font-family:'Lobster',cursive;
+	text-align:center;
+	font-weight:400;
+	font-size:2.5em;
+	font-style:bold;
+	color:rgba(20,20,20,0.6);
+	padding-top:100px;
+	padding-bottom:100px;
+	} 
+
+/*Middle Content title*/
+h2 {
+	font-family:'Dosis',cursive;
+	text-align:center;
+	font-weight:400;
+	font-size:2em;
+	}
+
+/*Middle Content*/
+p {
+	font-family:'Dosis',cursive;
+	text-decoration:none;
+	font-weight:400;
+	color:#a52a2a;
+	font-style:bold;
+	margin-left:10px;
+	font-size:1.3em;
+}
+
+/*Middle size*/
+#banner {
+	padding-top:30px;
+	padding-bottom:70px;
+	min-width:10%;
+}
+
+/*Name to describe*/
+code {
+	color:rgba(20,20,20,1);
+	background-color:#B6B5B2;
+	font-family:'Dosis',cursive;
+	font-style:normal;
+	border:2px solid 5B5C5B;
+	border-radius:15px;
+	padding:5px 15px;
+	font-size:1em;
+	width:15px;
+	text-align:left;
+}
+
+/*Push to home button*/
+a {
+	font-family:'Dosis',cursive;
+	text-align:right;
+	text-decoration:none;
+	font-weight:400;
+	color:#000;
+	font-style:bold;
+	margin-left:80px;
+}
+
+/*bottom banner*/
+#myfootage {
+	background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);
+	color:rgba(20,20,20,0.6);
+	bottom:0;
+	width:100%;
+	text-align:right;
+	min-width:10%;
+	height: 80px;
+	padding-top: 20px;
+}
+}

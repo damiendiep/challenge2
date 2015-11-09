@@ -172,4 +172,8 @@ a {
 	height: 80px;
 	padding-top: 20px;
 }
+
+/*bottom banner for home page*/
+.accueil {
+	position: fixed;
 }

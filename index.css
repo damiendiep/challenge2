@@ -85,6 +85,10 @@ a {
 	padding-top: 20px;
 }
 
+div.accueil {
+	position: fixed;
+}
+
 @media screen and (max-width: 768px) {
 	/* code to mobile divice settings*/
 html,body,h1 {

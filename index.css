@@ -163,6 +163,11 @@ a {
 	margin-left:80px;
 }
 
+img {
+	width: 90%;
+	margin-left: 3%;
+}
+
 /*bottom banner*/
 #myfootage {
 	background:linear-gradient(to right,#D7D6D4,#F2F2F2,#D7D6D4);
